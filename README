@@ -5,3 +5,6 @@ There is a full enum plugin for Rails available at:
 
 But if you just want enum columns to be treated as strings, use this tiny plugin which
 adds no overhead.
+
+To install:
+  script/plugin install git://github.com/mogest/fix_rails_mysql_enum_support.git
