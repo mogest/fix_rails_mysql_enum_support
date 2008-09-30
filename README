@@ -1,0 +1,7 @@
+A very simple plugin that makes Rails 2.1.1 or thereabouts handle enums correctly.
+
+There is a full enum plugin for Rails available at:
+  http://enum-column.rubyforge.org/
+
+But if you just want enum columns to be treated as strings, use this tiny plugin which
+adds no overhead.
